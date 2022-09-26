@@ -1,6 +1,6 @@
 pragma solidity ^0.8.3;
 import "remix_tests.sol";
-import "./basicSyntax.sol";
+import "./learn_something.sol";
 
 contract MyTest {
   MyContract foo;
