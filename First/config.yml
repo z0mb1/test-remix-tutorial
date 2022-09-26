@@ -1,0 +1,16 @@
+---
+name: Remix Basics
+level: 1
+tags: 
+  - Remix
+  - tag2
+  - tag3
+steps:
+  - name: 1 intro ui
+    path: 1._Interface_introduction
+  - name: 2 Load and compile
+    path: 2_Load_and_compile // this directory does not exist
+  - name: 3 Deploy
+    path: 3._Deploy_to_the_JavascriptVM
+  - name: 4 something
+    path: 4._does_not_exist // this directory does not exist
